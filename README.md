@@ -11,5 +11,6 @@
  wild baer 
  
  
-# My blog 
- www.wildbear.info
+# about 
+ My blog : www.wildbear.info
+ My email : wild.bear.blog@gmail.com
