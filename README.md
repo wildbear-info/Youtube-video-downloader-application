@@ -3,4 +3,13 @@
 
 
 # Installation
- For install this app you most have pytube and for download and install pytube you can just type "pip install pytube"
+ For install this app you most have pytube and for download and install pytube you can just type "pip install pytube" in CMD .
+ if you have linux type this in terminal
+ 
+ 
+# Manufacturer
+ wild baer 
+ 
+ 
+# My blog 
+ www.wildbear.info
