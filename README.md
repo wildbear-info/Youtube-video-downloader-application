@@ -3,7 +3,7 @@
 
 
 # Installation
- For install this app you most have pytube and for download and install pytube you can just type "pip install pytube" in CMD .
+ For install this app you most have pytube and for download and install pytube you can just type "pip install pytube3" in CMD .
  if you have linux type this in terminal
  
  
