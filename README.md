@@ -11,9 +11,10 @@
  wild baer 
  
  
-# about me
- My blog : www.wildbear.info
+# About me
+
+ My site : www.wildbear.info
  
+ My blog : www.wild-bear.blog.ir
  
- 
- My email : wild.bear.blog@gmail.com
+ My email : info@wildbear.info
